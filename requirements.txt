@@ -1,0 +1,17 @@
+# Core dependencies
+langchain
+langchain-ollama
+langchain-community
+pandas
+pypdf
+PyPDF2
+
+# Vector database
+faiss-cpu
+
+# Streamlit for the web app
+streamlit
+
+# Testing and development
+pytest
+pytest-mock
