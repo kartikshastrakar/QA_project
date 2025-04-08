@@ -139,6 +139,11 @@ Date,Product,Region,Units Sold,Revenue
 ```bash
 pytest tests/
 ```
+## 🎥 Demo
+
+Click to watch the demo video below:
+
+[▶️ Watch Demo](https://github.com/kartikshastrakar/QA_project/blob/main/20250408143245.mp4)
 
 ---
 
