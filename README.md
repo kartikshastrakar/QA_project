@@ -106,9 +106,9 @@ project_root/
 │   ├── test_faiss_store.py
 │   └── test_ollama.py
 
-             
----
 
+
+```
 ## 📊 Sample Data and Example Questions
 
 ### ✅ Sample CSV (`data/sales_data.csv`):
