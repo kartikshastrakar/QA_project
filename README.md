@@ -86,7 +86,7 @@ QA_project/
 ---
 
 ## 📊 Workflow Diagram  
-![Workflow Diagram](scripts/workflow.png)
+<img src="scripts/workflow.png" alt="Workflow Diagram" width="150"/>
 
 ---
 
