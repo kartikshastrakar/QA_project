@@ -105,8 +105,17 @@ project_root/
 │   ├── test_splitters.py
 │   ├── test_faiss_store.py
 │   └── test_ollama.py
+|__ evaluation.py           
+```
 
-             
+---
+
+## 📊 Workflow Diagram
+
+Below is the workflow diagram of the system:
+
+![Workflow Diagram](scripts/workflow.png)
+
 ---
 
 ## 📊 Sample Data and Example Questions
