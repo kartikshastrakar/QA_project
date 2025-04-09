@@ -116,8 +116,13 @@ Below is the workflow diagram of the system:
 
 ![Workflow Diagram](scripts/workflow.png)
 
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> 6a4d609f93f8cc111571bd192e978afdfb7e4070
 
+
+```
 ## 📊 Sample Data and Example Questions
 
 ### ✅ Sample CSV (`data/sales_data.csv`):
@@ -148,6 +153,11 @@ Date,Product,Region,Units Sold,Revenue
 ```bash
 pytest tests/
 ```
+## 🎥 Demo
+
+Click to watch the demo video below:
+
+[▶️ Watch Demo](https://github.com/kartikshastrakar/QA_project/blob/main/20250408143245.mp4)
 
 ---
 
